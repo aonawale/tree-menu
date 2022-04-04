@@ -1,0 +1,118 @@
+[
+  {"title": "Smartphone"},
+  {
+    "title": "Laptop",
+    "nodes": [
+      {
+        "title": "Apple",
+        "nodes": [
+          {
+            "title": "Mackbook Pro",
+            "nodes": [
+              {"title": "Mackbook Pro M1 13 inches 2020"},
+              {"title": "Mackbook Pro i9 15 inches"}
+            ]
+          },
+          {
+            "title": "Mackbook Air",
+            "nodes": [
+              {"title": "Mackbook Air M1 2020"},
+              {"title": "Mackbook Air 2021"}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Acer",
+        "nodes": [{"title": "Aspire 2020"}, {"title": "Aspire 2021"}]
+      },
+      {
+        "title": "Dell",
+        "nodes": [{"title": "Latitude 2020"}, {"title": "Latitude 2021"}]
+      }
+    ]
+  },
+  {
+    "title": "Furniture",
+    "nodes": [
+      {
+        "title": "Living",
+        "nodes": [{"title": "Table"}, {"title": "Sofa"}]
+      },
+      {"title": "Dining"}
+    ]
+  },
+  {
+    "title": "Automobile",
+    "nodes": [
+      {
+        "title": "Car",
+        "nodes": [
+          {
+            "title": "SUV",
+            "nodes": [
+              {
+                "title": "Toyota",
+                "nodes": [
+                  {
+                    "title": "Corolla",
+                    "nodes": [{"title": "2019 Model"}, {"title": "2020 Model"}]
+                  },
+                  {
+                    "title": "Camry",
+                    "nodes": [{"title": "2019 Model"}, {"title": "2020 Model"}]
+                  }
+                ]
+              },
+              {
+                "title": "BMW",
+                "nodes": [
+                  {
+                    "title": "320i",
+                    "nodes": [{"title": "2019 Model"}, {"title": "2020 Model"}]
+                  },
+                  {
+                    "title": "x3",
+                    "nodes": [{"title": "2019 Model"}, {"title": "2020 Model"}]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Sedan",
+            "nodes": [
+              {
+                "title": "Toyota",
+                "nodes": [
+                  {
+                    "title": "Corolla",
+                    "nodes": [{"title": "2019 Model"}, {"title": "2020 Model"}]
+                  },
+                  {
+                    "title": "Camry",
+                    "nodes": [{"title": "2019 Model"}, {"title": "2020 Model"}]
+                  }
+                ]
+              },
+              {
+                "title": "BMW",
+                "nodes": [
+                  {
+                    "title": "320i",
+                    "nodes": [{"title": "2019 Model"}, {"title": "2020 Model"}]
+                  },
+                  {
+                    "title": "x3",
+                    "nodes": [{"title": "2019 Model"}, {"title": "2020 Model"}]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {"title": "Motocycle"}
+    ]
+  }
+]
